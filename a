@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+int main(void){
+prntf("a\n");
+return 0;
+}
